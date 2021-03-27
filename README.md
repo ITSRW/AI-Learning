@@ -7,4 +7,4 @@ El Psy Congroo.
 Fig.1  Using 07-BPN to train a model for binary classification problem.
 
 ![Figure_2](https://user-images.githubusercontent.com/61769609/112724213-363aa980-8f4d-11eb-8dcc-8a2f9c03fcc5.png)
-Fig.1  Using 07-BPN to train a model which has 8 output neurons.
+Fig.2  Using 07-BPN to train a model which has 8 output neurons.
